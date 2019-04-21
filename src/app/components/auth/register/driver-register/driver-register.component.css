@@ -1,0 +1,19 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+}
+  
+.example-container > * {
+    width: 100%;
+}
+
+button {
+    background: #1ab188 !important;
+}
+span {
+    color: #1ab188;
+}
+#terms {
+    color: #444 ;
+    text-decoration: underline;
+}
